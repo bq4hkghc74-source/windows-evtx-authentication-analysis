@@ -73,3 +73,6 @@ print("Failed logins (4625):", failed)
 - Extract usernames and IP addresses
 - Export results to CSV
 - Visualise login activity
+
+## Author
+SOC Lab Project
