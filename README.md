@@ -62,7 +62,7 @@ print("Failed logins (4625):", failed)
 ![failed_login_detection](failed_login_detection.png)
 
 ### login summary
-![login summary](loginsummary)
+![login summary](loginsummary.png)
 ## Key Learning
 - Understanding Windows Event Logs (EVTX)
 - Identifying authentication-related events
